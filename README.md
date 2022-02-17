@@ -1,3 +1,3 @@
 
-**This file is mandatory in all ALX School projects both done and upcoming**
+**This file is mandatory in all ALX School projects**
 # alx-pre_course
